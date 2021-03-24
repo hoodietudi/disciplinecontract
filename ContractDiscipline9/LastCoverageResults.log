@@ -1,0 +1,21 @@
+[2020-05-11 17:43:21] [info] Start Program:
+Path:"C:\\Users\\Mada\\Desktop\\UBB\\OOP\\ContractDiscipline9\\Debug\\ContractDiscipline9.exe"
+Arguments:
+Working directory: "C:\\Users\\Mada\\Desktop\\UBB\\OOP\\ContractDiscipline9\\"
+Modules: Selected: C:\Users\Mada\Desktop\UBB\OOP\ContractDiscipline9\Debug\ContractDiscipline9.exe Excluded: 
+Sources: Selected: C:\Users\Mada\Desktop\UBB\OOP\ContractDiscipline9 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Mada\AppData\Local\Temp\05iom3sg.mje 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-05-11 17:45:52] [info] Module: C:\Users\Mada\Desktop\UBB\OOP\ContractDiscipline9\Debug\ContractDiscipline9.exe is selected because it matches selected pattern: C:\Users\Mada\Desktop\UBB\OOP\ContractDiscipline9\Debug\ContractDiscipline9.exe
+[2020-05-11 17:45:54] [info] ----------------------------------------------------
+[2020-05-11 17:45:54] [info] Coverage binary generated in file: C:\Users\Mada\AppData\Local\Temp\05iom3sg.mje
+[2020-05-11 17:45:54] [info] ----------------------------------------------------
